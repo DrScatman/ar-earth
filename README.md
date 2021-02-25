@@ -1,4 +1,4 @@
-# AREarth
+# AR-Earth
 
 Escape into the fun and exciting world of augmented reality! AR-Earth is the most innovative AR app allowing you to place any 3D object, anywhere, and it will stay forever.
 
